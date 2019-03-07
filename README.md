@@ -1,3 +1,13 @@
+### GUIDE
+
+#download node
+nodejs.org/en/download
+
+#install create-react-app
+npm install -g create-react-app roshan
+OR
+npx create-react-app roshan
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
