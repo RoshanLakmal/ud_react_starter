@@ -1,9 +1,9 @@
 ### GUIDE
 
-#download node
+# download node
 nodejs.org/en/download
 
-#install create-react-app
+# install create-react-app
 npm install -g create-react-app roshan
 OR
 npx create-react-app roshan
