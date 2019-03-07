@@ -8,6 +8,18 @@ npm install -g create-react-app roshan
 OR
 npx create-react-app roshan
 
+# runing app
+Go inside project folder
+npm start
+
+It will run on port : 3000
+
+## port in use message
+say yes and it will run on port : 3001
+
+## localhost: 3000 doesn't work
+In the terminal find On Your Network: http://192.168.0.17:3000/.
+go to that address. 
 
 ## README
 
